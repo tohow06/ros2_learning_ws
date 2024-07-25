@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/tohow/ddd_ws/install/tutorial_interfaces/include/**",
+        "/home/tohow/ddd_ws/install/more_interfaces/include/**",
+        "/home/tohow/bennis_ws/install/mecanumbot_hardware/include/**",
+        "/home/tohow/bennis_ws/install/mecanumbot_controller/include/**",
+        "/opt/ros/iron/include/**",
+        "/home/tohow/ddd_ws/src/cpp_parameters/include/**",
+        "/home/tohow/ddd_ws/src/cpp_pubsub/include/**",
+        "/home/tohow/ddd_ws/src/cpp_srvcli/include/**",
+        "/home/tohow/ddd_ws/src/more_interfaces/include/**",
+        "/home/tohow/ddd_ws/src/my_package22/include/**",
+        "/home/tohow/ddd_ws/src/polygon_base/include/**",
+        "/home/tohow/ddd_ws/src/polygon_plugins/include/**",
+        "/home/tohow/ddd_ws/src/tutorial_interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
